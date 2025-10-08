@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\orgonasip\orgonasip\bin\Debug\orgonasip.exe.config
+C:\Users\Lenovo\source\repos\orgonasip\orgonasip\bin\Debug\orgonasip.exe
+C:\Users\Lenovo\source\repos\orgonasip\orgonasip\bin\Debug\orgonasip.pdb
+C:\Users\Lenovo\source\repos\orgonasip\orgonasip\obj\Debug\orgonasip.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\orgonasip\orgonasip\obj\Debug\orgonasip.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\orgonasip\orgonasip\obj\Debug\orgonasip.exe
+C:\Users\Lenovo\source\repos\orgonasip\orgonasip\obj\Debug\orgonasip.pdb

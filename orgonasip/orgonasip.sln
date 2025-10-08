@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "orgonasip", "orgonasip\orgonasip.csproj", "{7DC69D27-7DEE-4F32-AEC4-253197D7934A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DC69D27-7DEE-4F32-AEC4-253197D7934A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC69D27-7DEE-4F32-AEC4-253197D7934A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC69D27-7DEE-4F32-AEC4-253197D7934A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC69D27-7DEE-4F32-AEC4-253197D7934A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5628B325-F260-4193-B67A-6B2499711AD6}
+	EndGlobalSection
+EndGlobal
