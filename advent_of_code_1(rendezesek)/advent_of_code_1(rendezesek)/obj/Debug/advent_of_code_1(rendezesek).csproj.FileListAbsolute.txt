@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\advent_of_code_1(rendezesek)\advent_of_code_1(rendezesek)\bin\Debug\advent_of_code_1(rendezesek).exe.config
+C:\Users\Lenovo\source\repos\advent_of_code_1(rendezesek)\advent_of_code_1(rendezesek)\bin\Debug\advent_of_code_1(rendezesek).exe
+C:\Users\Lenovo\source\repos\advent_of_code_1(rendezesek)\advent_of_code_1(rendezesek)\bin\Debug\advent_of_code_1(rendezesek).pdb
+C:\Users\Lenovo\source\repos\advent_of_code_1(rendezesek)\advent_of_code_1(rendezesek)\obj\Debug\advent_of_code_1(rendezesek).csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\advent_of_code_1(rendezesek)\advent_of_code_1(rendezesek)\obj\Debug\advent_of_code_1(rendezesek).csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\advent_of_code_1(rendezesek)\advent_of_code_1(rendezesek)\obj\Debug\advent_of_code_1(rendezesek).exe
+C:\Users\Lenovo\source\repos\advent_of_code_1(rendezesek)\advent_of_code_1(rendezesek)\obj\Debug\advent_of_code_1(rendezesek).pdb
