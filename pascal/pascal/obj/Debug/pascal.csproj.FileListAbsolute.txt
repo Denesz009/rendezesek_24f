@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\pascal\pascal\bin\Debug\pascal.exe.config
+C:\Users\Lenovo\source\repos\pascal\pascal\bin\Debug\pascal.exe
+C:\Users\Lenovo\source\repos\pascal\pascal\bin\Debug\pascal.pdb
+C:\Users\Lenovo\source\repos\pascal\pascal\obj\Debug\pascal.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\pascal\pascal\obj\Debug\pascal.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\pascal\pascal\obj\Debug\pascal.exe
+C:\Users\Lenovo\source\repos\pascal\pascal\obj\Debug\pascal.pdb
